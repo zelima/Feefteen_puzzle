@@ -15,7 +15,7 @@ follow this link to install pygame: http://www.pygame.org/wiki/GettingStarted
 
 ## Processing 
 
-Run the following script from /scirpts directory to download and process the data:
+Run the following script from /scirpts directory to start game:
 
 ```
 python _15Puzzle_puzzleclass.py
